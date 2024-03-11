@@ -16,8 +16,8 @@ This Python application converts text input into a video with embedded subtitles
   - requests
   - ttkthemes
 
-## Demo
-[Add a link to a demo video or screenshots here]
+## GUI
+![GUI](GUI.png "GUI")
 
 ## Usage
 1. Clone the repository to your local machine.
@@ -30,8 +30,5 @@ This Python application converts text input into a video with embedded subtitles
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for any bugs or feature requests.
 
-## License
-[Include information about the license here]
-
 ## Author
-[Your Name or Username]
+Max Vo
